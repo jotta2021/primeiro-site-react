@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Open+Sans&family=Poppins:wght@300;400;500;600;700;800&display=swap');
+html{
+  font-family: 'Poppins',sans-serif;
+}
+.post{
+  
+width: 24.06rem;
+height: 25rem;
+margin-left: 1.5rem;
+background-color: rgb(246, 245, 245);
+margin-bottom: 2rem;
+}
+
+
+.fotopost{
+  
+  display: flex;
+  width: 20rem;
+  border-radius: 0.5rem;
+margin-left: 2rem;
+}
+.infor{
+  text-align: center;
+}
+p{
+  color: gray;
+}

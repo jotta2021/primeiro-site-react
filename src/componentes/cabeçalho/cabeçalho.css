@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Open+Sans&family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+html{
+  font-family: 'Open Sans',sans-serif;
+  overflow-x: hidden;
+}
+.Cabecalho{
+  overflow-x: hidden;
+}
+.titulo{
+text-align: center;
+margin-top: 1.5rem;
+}
+.titulo h2{
+  font-size: 1.2rem;
+  color: grey;
+}
+.titulo h1{
+  font-size: 2rem;
+}
+.back{
+object-fit:contain;
+max-width: 100vw;
+align-items: center;
+justify-content: center;
+
+}

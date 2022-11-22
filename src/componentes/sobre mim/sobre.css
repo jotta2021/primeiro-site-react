@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Open+Sans&family=Poppins:wght@300;400;500;600;700;800&display=swap');
+html{
+  font-family: 'Open Sans',sans-serif;
+}
+.Sobre{
+ text-align: center;
+  
+}
+.Sobre h2{
+  border-bottom: 1px solid rgba(0, 0, 0, 0.26);
+  font-size: 2rem;
+  color: #8f3d8f;
+}
+.content p{
+  color: #8f3d8f;
+}
+.content{
+  margin-top: 1.2rem;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.img-sobre{
+  max-width: 7rem;
+}
+.categ{
+  border-top: 1px solid rgba(0, 0, 0, 0.26);
+  margin-top: 1.2rem;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.categ h2{
+  font-size: 2rem; 
+  color: #8f3d8f;
+}
+.categ ul{
+  display:inline-flex;
+  
+
+}
+.categ ul li{
+  margin: 1.2rem;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
